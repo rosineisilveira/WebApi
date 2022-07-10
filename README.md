@@ -32,7 +32,7 @@
 <H1>
   Próximas atualizações:
   <H2>
-    Criar perfil de usuários com login<br>
+    Criar perfil de usuários com login<br> 
     EndPoints com buscas específicas
   <H2/>
 <H1/>
